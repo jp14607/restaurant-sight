@@ -1,0 +1,27 @@
+.blue {
+    color: blue
+}
+
+.green{
+    color: green;
+}
+
+.Orange{
+    color: orange;
+}
+
+.red{
+    color: red;
+}
+
+ul {
+    border: 5px dashed;
+
+    text-align: center;
+    list-style: none;
+    padding: left 0;
+    width: 50%;
+    margin: auto;
+    display: inline-block;
+}
+
